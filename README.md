@@ -17,10 +17,11 @@ Dive into the fun of starting a game, drifting through seasons, repairing your c
 Run the `Main` class to fire up the server, awakening it to life on `localhost` at the port `8080`.
 
 ### 🛠️ Endpoints
-- `POST /start`: Kick off the game with a pristine car.
-- `POST /drift-it`: Engage in a drifting escapade. Don't forget to specify the season!
-- `POST /repair`: Mend and upgrade your car's prowess.
-- `POST /destroy`: When it's time to say goodbye, this endpoint retires your car with honor.
+- `/start`: Kick off the game with a pristine car.
+- `/drift-it`: Engage in a drifting escapade. Don't forget to specify the season!
+- `/repair`: Mend and upgrade your car's prowess.
+- `/destroy`: When it's time to say goodbye, this endpoint retires your car with honor.
+- For more info about the endpoints read the JavaDoc in the Main class in the application.
   
 ## 📜 License
 This game is all about fun and learning, and it's released under the [MIT License](LICENSE) for everyone to enjoy.
