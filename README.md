@@ -1,6 +1,7 @@
 # 🚗 Car Game Server
 
-## ⚙️ Technologies: no freamework, no database, only using com.sun.net.httpserver library.
+## ⚙️ Technologies
+No freamework, no database, only using com.sun.net.httpserver library.
 
 ## 🌟 Overview
 Welcome to the Car Game Server! This Java-based HTTP server orchestrates an engaging car game, offering various endpoints to interact with a virtual car. 
